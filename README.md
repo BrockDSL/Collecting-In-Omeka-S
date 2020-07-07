@@ -1,7 +1,7 @@
 
 
 
-# Collecting in Omeka S
+# Collecting in Omeka-S
 A brief tutorial on getting started with the colecting module in Omeka S.
 
 ### What you will need
