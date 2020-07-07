@@ -27,9 +27,12 @@ This new page is where you will build your collecting form.  Begin by entering:
 - Success Text: This is the text that will be displayed on a new page once the form submission is completed successfully.
 - Leave the e-mail section blank as e-mail responses are not available currently.
 
+![Collecting form setup page][img3]
 
+The next section is where you add the prompts for your form.  By default there will be a Title prompt already present.  To add a new prompt click the “Add Prompt” button to open the prompt menu on the right.  From this menu, select the type of prompt you want to add:
 
-
+- Item Property: This allows you to add a field where the user can submit metadata for an item.
+	- Choose a type of metadata from the dropdown menu (eg. title, description, etc.)
 
 
 ![DSL Logo][dsllogo]  
@@ -56,3 +59,4 @@ You can also find us on:
 [dsllogo]: dsl_logo.png
 [img1]: collectingimg1.png
 [img2]: collectingimg2.png
+[img3]: collectingimg3.png
