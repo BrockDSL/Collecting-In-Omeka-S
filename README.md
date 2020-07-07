@@ -70,6 +70,10 @@ Once some submissions have been made to your form, you can manage them from the 
 
 And with that your form is fully functional!
 
+
+### Examples
+
+
 For inspiration, check out the exaples below of existing forms and how they are set up.
 
 Here is an example of a nice item submission form.
