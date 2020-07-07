@@ -47,7 +47,16 @@ The next section is where you add the prompts for your form.  By default there w
 
 ![Promt options page][img4]
 
-Once the form is constructed to your liking, click the “Save” button to create the form.  Now that the form is ready, you can add it to a page on your site by adding the “Collecting” block where you want the form and selecting which form to display.
+Once the form is constructed to your liking, click the “Save” button to create the form.  
+
+Before you add the form to your site, it is reccomended that you set up your "Terms of Service" for the site.  This will appear in every form on your site.
+To do this go to the Settings option in the left hand menu for your site.  Scroll down to collecting and you will see a space to add your terms of service.  Once you have enetered you content, hit the "Save" button at the top right of the page.
+
+![Text box for adding terms of service][img8]
+
+Now that the form is ready, you can add it to a page on your site by adding the “Collecting” block in your page editor and selecting which form to display.
+
+![Collecting Block][img9]
 
 Once some submissions have been made to your form, you can manage them from the collecting section on your site.  
 
@@ -109,3 +118,5 @@ You can also find us on:
 [img5]: collectingimg5.png
 [img6]: collectingimg6.png
 [img7]: collectingimg7.png
+[img8]: collectingimg8.png
+[img9]: collectingimg9.png
