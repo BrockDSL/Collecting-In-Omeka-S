@@ -33,6 +33,51 @@ The next section is where you add the prompts for your form.  By default there w
 
 - Item Property: This allows you to add a field where the user can submit metadata for an item.
 	- Choose a type of metadata from the dropdown menu (eg. title, description, etc.)
+	- Enter some text for the prompt.  This tells the user what you want (eg. “Describe the file you are submitting”)
+	- Choose an input type.  Generally, you will use either Text Box or Select Menu.
+	- Check the box if input is required for this prompt
+	- Click “Add Changes” to add the prompt to your form
+- Item Media: This allows the user to submit files and information as media.
+	- Choose from the media types (eg. One file, multiple files, etc.)
+	- Enter some text for the prompt.  This tells the user what type of media to submit
+	- Check the box if input is required for this prompt
+	- Click “Add Changes” to add the prompt to your form
+- User Name: This designates what will be put in the Owner field of the item when it is created.
+- Do not add the e-mail field as that function is not currently available and will lead to an error.
+
+![Promt options page][img4]
+
+Once the form is constructed to your liking, click the “Save” button to create the form.  Now that the form is ready, you can add it to a page on your site by adding the “Collecting” block where you want the form and selecting which form to display.
+
+Once some submissions have been made to your form, you can manage them from the collecting section on your site.  
+
+- Click on “Collecting” on the left hand menu for your site
+- Select the form you want to view
+- Go to the “Collected Items” tab to see the collected items.
+- Review each item and, once done, use the drop down menu beside that item to set it as either public or private to indicate that it has been reviewed
+- Keep in mind that collected items should be reviewed frequently.
+
+![Collected items page][img5]
+
+And with that your form is fully functional!
+
+For inspiration, check out the exaples below of existing forms and how they are set up.
+
+Here is an example of a nice item submission form.
+
+[https://exhibits.library.brocku.ca/s/COVID-Niagara/page/digital](https://exhibits.library.brocku.ca/s/COVID-Niagara/page/digital)
+
+And a portion of the prompts they used
+![Promts used for the item submission page][img6]
+
+
+This is an example of a form being used to collect just text responses
+
+https://exhibits.library.brocku.ca/s/COVID-Niagara/page/qa-summer
+
+And some of the prompts they used
+![Promts used for the text submission page][img7]
+
 
 
 ![DSL Logo][dsllogo]  
@@ -60,3 +105,7 @@ You can also find us on:
 [img1]: collectingimg1.png
 [img2]: collectingimg2.png
 [img3]: collectingimg3.png
+[img4]: collectingimg4.png
+[img5]: collectingimg5.png
+[img6]: collectingimg6.png
+[img7]: collectingimg7.png
