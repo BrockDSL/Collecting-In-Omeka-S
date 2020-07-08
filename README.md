@@ -89,7 +89,7 @@ And a portion of the prompts they used
 
 This is an example of a form being used to collect just text responses
 
-https://exhibits.library.brocku.ca/s/COVID-Niagara/page/qa-summer
+[https://exhibits.library.brocku.ca/s/COVID-Niagara/page/qa-summer](https://exhibits.library.brocku.ca/s/COVID-Niagara/page/qa-summer)
 
 And some of the prompts they used
 ![Promts used for the text submission page][img7]
