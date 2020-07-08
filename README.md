@@ -4,6 +4,9 @@
 # Collecting in Omeka S
 A brief tutorial on getting started with the colecting module in Omeka S.
 
+### What is the Collecting Module?
+The Collecting Module for Omeka S is used to create forms on your sites that gather user submitted data in the form of media and metadata.
+
 ### What you will need
 - To start with you will need an Omeka S site with the collecting module activated.
 - You will also need Administrator access to that site.
