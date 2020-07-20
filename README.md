@@ -28,7 +28,7 @@ This new page is where you will build your collecting form.  Begin by entering:
 - The item set: This is where collected items will be stored.  Select the item set you prepared
 - Anonymity Type: This is where you decide what level of anonymity item submitters have
 - Success Text: This is the text that will be displayed on a new page once the form submission is completed successfully.
-- Leave the e-mail section blank as e-mail responses are not available currently.
+- E-mail test: This is where you will put the contents of the submission confirmation e-mails that get sent upon a successful submission.
 
 ![Collecting form setup page][img3]
 
@@ -46,14 +46,14 @@ The next section is where you add the prompts for your form.  By default there w
 	- Check the box if input is required for this prompt
 	- Click “Add Changes” to add the prompt to your form
 - User Name: This designates what will be put in the Owner field of the item when it is created.
-- Do not add the e-mail field as that function is not currently available and will lead to an error.
+- User E-Mail: Add this promt if you want users to have the option to recieve a confirmation e-mail for their submission.
 
 ![Promt options page][img4]
 
 Once the form is constructed to your liking, click the “Save” button to create the form.  
 
 Before you add the form to your site, it is reccomended that you set up your "Terms of Service" for the site.  This will appear in every form on your site.
-To do this go to the Settings option in the left hand menu for your site.  Scroll down to collecting and you will see a space to add your terms of service.  Once you have enetered you content, hit the "Save" button at the top right of the page.
+To do this go to the Settings option in the left hand menu for your site.  Scroll down to collecting and you will see a space to add your terms of service.  This is also where you will designate which e-mail address confirmation e-mail will be sent from.  Once you have enetered your content, hit the "Save" button at the top right of the page.
 
 ![Text box for adding terms of service][img8]
 
